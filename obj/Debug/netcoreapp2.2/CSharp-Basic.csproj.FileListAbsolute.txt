@@ -1,0 +1,11 @@
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/bin/Debug/netcoreapp2.2/CSharp-Basic.deps.json
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/bin/Debug/netcoreapp2.2/CSharp-Basic.runtimeconfig.json
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/bin/Debug/netcoreapp2.2/CSharp-Basic.runtimeconfig.dev.json
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/bin/Debug/netcoreapp2.2/CSharp-Basic.dll
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/bin/Debug/netcoreapp2.2/CSharp-Basic.pdb
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.csprojAssemblyReference.cache
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.csproj.CoreCompileInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.AssemblyInfoInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.AssemblyInfo.cs
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.dll
+/home/marcink/Dev/marcinkx-github/CSharp-Basic/obj/Debug/netcoreapp2.2/CSharp-Basic.pdb
