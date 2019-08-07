@@ -22,10 +22,12 @@ public class BasicRunner
         BasicRunner.Run(new ParameterModifiers());
         Console.WriteLine(" \nFunctions<<");
         */
-        Console.WriteLine(" >>Variables&Operators\n");
-        BasicRunner.Run(new NullOperators());
+/*         Console.WriteLine(" >>Variables&Operators\n");
+        BasicRunner.Run(new NullOperators());*/
         BasicRunner.Run(new StringComparing());   
-        Console.WriteLine(" \nVariables&Operators<<");
+        BasicRunner.Run(new DataConversion());   
+
+        Console.WriteLine(" \nVariables&Operators<<"); 
         /* 
         Console.WriteLine(" >>Objects\n");
         BasicRunner.Run(new ClassExample());
@@ -34,6 +36,9 @@ public class BasicRunner
         BasicRunner.Run(new ThisKeyword());        
         Console.WriteLine(" \nObjects<<");
         */
+/*         Console.WriteLine(" >>Console Input&Output\n");
+        BasicRunner.Run(new ConsoleInput()); //odpalać przez dotnet run
+        Console.WriteLine(" \nVConsole Input&Output<<"); */
     }
 
 
