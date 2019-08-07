@@ -18,9 +18,9 @@ public class Strings
         Console.WriteLine(str1==str2); //true
         /*zadziała, ponieważ są to tzw. String literals - po utworzeniu str1 łańcuch trafia do
          specjalnej przestrzeni nazw, gdy tworzymy str2 o takim samym łańcuchu,
-          kompilator nie tworzy nowego obiektu tylko przypisuje zmienną do istenijącego łańcucha*/
+          kompilator nie tworzy nowego obiektu tylko przypisuje zmienną do istniejącego łańcucha*/
 
-        //comparing reference types': references vs values
+        //comparing reference types': references vs values (dla klasy String true, dla StringBuilder false) -> klasa String jest wyjątkiem
         Console.WriteLine(string1==string2); //false
         Console.WriteLine(string1.Equals(string2)); //true
     }

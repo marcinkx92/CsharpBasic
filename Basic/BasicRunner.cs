@@ -23,12 +23,13 @@ public class BasicRunner
         Console.WriteLine(" \nFunctions<<");
         */
 /*         Console.WriteLine(" >>Variables&Operators\n");
-        BasicRunner.Run(new NullOperators());*/
+        BasicRunner.Run(new NullOperators());
         BasicRunner.Run(new StringComparing());   
-        BasicRunner.Run(new DataConversion());   
-
+        BasicRunner.Run(new DataConversion());   */
+        BasicRunner.Run(new StringClass()); 
+/*
         Console.WriteLine(" \nVariables&Operators<<"); 
-        /* 
+         
         Console.WriteLine(" >>Objects\n");
         BasicRunner.Run(new ClassExample());
         BasicRunner.Run(new ClassConstructors());

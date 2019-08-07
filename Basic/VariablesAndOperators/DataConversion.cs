@@ -27,7 +27,7 @@ public class Conversions
         double e = e1 / e2;
         Console.WriteLine("e=" + e);
         //0,4 (całe wyrażenie jest promowane do największego typu, jaki jest wśród składowych)
-        /*Data types promotion rules:
+        /*Zasady promocji typów w wyrażeniach:
         - rozpatrywane są 2 składniki działania
         - następuje promocja do większego z typów
         - domyślnie zmienne promowane są do int */
@@ -47,7 +47,7 @@ public class Conversions
         int f2 = 5;
         double f = (double) (f1 / f2); //rzutujemy wynik f1/f2
         double ff = (double) f1 / f2; //(rzutujemy f1)
-        Console.WriteLine("f=" + f); //0,2 (nie odcięło części dziesiętnej)
+        Console.WriteLine("f=" + f); //0 (odcięło część dziesiętną, bo przy dzieleniu widzi INT/INT)
         Console.WriteLine("ff=" + ff); //0,2 (nie odcięło części dziesiętnej)
 
         //convert class
